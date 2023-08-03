@@ -48,7 +48,7 @@ This screen consists of 3 categories namely Feedback, Report a bug, Rate us. The
 ![Screenshot_2023-02-28-10-43-46-865_org test myapp](https://user-images.githubusercontent.com/85097081/221799459-022e676a-77b9-4e9a-843e-69c7b2c3e3e3.jpg)
 
 
-# App source code is not provied as to maintain privacy. For any quries you can contact through our mail 👇🏻.
+# For any quries you can contact through our mail 👇🏻.
 geeknotes2022@gmail.com
 
 
